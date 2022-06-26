@@ -1,7 +1,6 @@
 # Technical-Interviews
 
 ### Data-Structures
-- [] Stack 
-- [] Queue
-
-[x] Trie
+- [ ] Stack 
+- [ ] Queue
+- [x] Trie
