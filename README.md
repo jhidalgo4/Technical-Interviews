@@ -1,6 +1,7 @@
 # Technical-Interviews
 
 ### Data-Structures
+- [ ] LinkedList
 - [ ] Stack 
 - [ ] Queue
 - [x] Trie
