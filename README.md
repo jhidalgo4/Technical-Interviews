@@ -3,4 +3,5 @@
 ### Data-Structures
 - [] Stack 
 - [] Queue
+
 [x] Trie
