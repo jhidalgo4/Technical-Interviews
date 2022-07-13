@@ -1,9 +1,16 @@
 # Technical-Interviews
 
 ## Data-Structures
+- [ ] Array
+- [ ] Binary Tree
+- [ ] Disjoint Forest Set
+- [ ] Graph
+- [ ] Hash map
+- [ ] Heap
 - [ ] LinkedList
-- [ ] Stack 
-- [ ] Queue
+- [x] Queue
+- [x] Set
+- [x] Stack
 - [x] Trie
 
 _
