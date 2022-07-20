@@ -7,7 +7,7 @@
 - [ ] Graph
 - [ ] Hash map
 - [ ] Heap
-- [ ] LinkedList
+- [X] LinkedList
 - [x] Queue
 - [x] Set
 - [x] Stack
