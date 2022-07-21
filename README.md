@@ -5,9 +5,9 @@
 - [ ] Binary Tree
 - [ ] Disjoint Forest Set
 - [ ] Graph
-- [ ] Hash map
-- [ ] Heap
-- [X] LinkedList
+- [x] Hash map
+- [x] Heap
+- [x] LinkedList
 - [x] Queue
 - [x] Set
 - [x] Stack
